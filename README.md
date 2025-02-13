@@ -1,4 +1,4 @@
-Here's an improved **GitHub project description** with **XGBoost results** and more details about the chatbot:  
+ 
 
 ---
 
